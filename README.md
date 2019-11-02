@@ -4,7 +4,7 @@
 
 Here is a snapshot of an amazing artwork you can make by simply stroking the canvas!
 
-[![N|Solid](https://raw.githubusercontent.com/RaisinTen/Thread_Simulator/master/art.JPG)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://raw.githubusercontent.com/RaisinTen/Thread_Simulator/master/art.JPG)](https://raw.githubusercontent.com/RaisinTen/Thread_Simulator/master/art.JPG)
 
 ### Tech
 
