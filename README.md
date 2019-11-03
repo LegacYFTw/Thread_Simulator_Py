@@ -16,7 +16,7 @@ Want to contribute? Great! Submit your PRs here.
 
 ### Todos
 
- - Add more comments to make my code more readable
+ - Migration to Python
  - Improve the algorithm
 
 License
